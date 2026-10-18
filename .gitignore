@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+node_modules/
+dist/
+.netlify/
+models/*
+!models/.gitkeep
+data/*
+!data/.gitkeep
