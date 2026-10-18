@@ -10,6 +10,8 @@ The project is designed to demonstrate a complete data and product workflow: col
 
 **Netlify URL:** <https://melbourne-weather-lab-finn043.netlify.app>
 
+This repository is connected to that Netlify site. Pushes to `main` trigger production deploys automatically.
+
 ## What the application does
 
 - Shows the latest available daily maximum temperature, minimum temperature, and precipitation from the station record.
